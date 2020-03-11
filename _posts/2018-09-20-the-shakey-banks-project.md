@@ -9,13 +9,14 @@ tags: [Haiku, Winter, English, Japanese]
 **雪の宿  
 汗かきながら  
 担々麺**  
---Kanako
+  --かなこ
 
-**A snowy inn  
-Sweat drips down my face into  
-Spicy sesame**  
---Cesare
-
-
+**A snowy inn    
+Sweat drips down my face into      
+Spicy sesame**    
+ーーー  
+**中国で  　　
+故なくごめん  　　
+担々麺**  
 
 
