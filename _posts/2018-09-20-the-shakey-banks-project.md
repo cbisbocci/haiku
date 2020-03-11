@@ -15,8 +15,8 @@ tags: [Haiku, Winter, English, Japanese]
 Sweat drips down my face into      
 Spicy sesame**    
 ーーー  
-**中国で  　　
-故なくごめん  　　
+**中国で  
+故なくごめん  　
 担々麺**  
 
 
