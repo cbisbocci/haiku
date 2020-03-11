@@ -8,11 +8,11 @@ tags: [Haiku, Winter, English, Japanese]
 
 **雪の宿  
 汗かきながら  
-担々麺**
+担々麺**  
 --Kanako
 
 **A snowy inn  
-Sweat drips down my face into
+Sweat drips down my face into  
 Spicy sesame**  
 --Cesare
 
