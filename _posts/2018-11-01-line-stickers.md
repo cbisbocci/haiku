@@ -1,8 +1,8 @@
 ---
 layout: post
-title: LINE Stickers-- Momo-kun!
-subtitle: Conceptual Design
-image: /img/upa_sleep_web.png
+title: Junction City
+subtitle: 
+image: /img/
 tags: [Haiku, English, Japanese, Summer]
 ---
 
@@ -11,6 +11,6 @@ tags: [Haiku, English, Japanese, Summer]
 風の音**
 
 **At the crossing
-If we turned our engine off  
+If we turned our engine off    
 We could hear the wind**   
   --Cesare & 佳奈子
