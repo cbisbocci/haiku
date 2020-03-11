@@ -3,7 +3,7 @@ layout: post
 title: Summer School
 bigimg: 
 image: 
-tags: Summer, English, Japanese
+tags: Haiku, Summer, English, Japanese
 ---
 
  **授業中  
