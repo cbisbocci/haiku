@@ -1,23 +1,15 @@
 ---
 layout: page
-title: about me
+title: About this Anthology
 ---
-### the things I've done
- - Psychology Graduate Teaching Assistant (2014-2016)
- - [Developmental and Sociobiology Lab](https://dslab.uoregon.edu/): Research Assistant (2014-2016)
- - [JET Assistant Language Teacher](http://jetprogramme.org/en/) (2016-2018)
- - Freelance Writer (2016-now)
- - [Freelance Designer](https://www.linkedin.com/in/cesare-bisbocci/) (2016-Now)
+### Poetry as Memory
+Memories are fragile frozen balls of silly putty    
+Thaw one out and it loses shape     
+Thrown down and they shatter into smaller shapes  
+
+To compile this anthology to preserve my putty would be a vain exercise
+For me so much of my life is performitive and I am still learning what I am all about
+In the interim I'm taking pictures of the synthetic strands of my past lives
  
-### what is it like to work with me?
- - Strong knowledge and understanding of art and design principles.
- - Clear communicator and efficient designer
- - I'm flexible in a  group dynamic, and self-motivated to work on solo projects
- - Comfortable with translating creative concepts and design into physical and web installations.
- 
-### skillsets
-  - Adobe Photoshop, Illustrator, and InDesign
-  - Python, HTML
-  - Native English
-  - Proficent in office Japanese, French, and Swedish  
+
 
