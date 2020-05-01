@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Summer School
-bigimg: 
-image: 
+bigimg: /img/window.png 
+image: /img/rhino.png
 tags: Haiku, Summer, English, Japanese
 ---
 
