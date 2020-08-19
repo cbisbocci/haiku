@@ -1,0 +1,21 @@
+---
+layout: post
+title: Tantanmen
+subtitle: Spicy sesame and pork soup
+bigimg: /img/kitchen.png
+image: /img/tantan.png
+tags: [Haiku, Winter, Japanese]
+---
+ 
+**雪の宿  
+汗かきながら  
+担々麺**  
+  --かなこ
+
+**A snowy inn    
+Sweat drips down my face into      
+Spicy sesame**    
+
+**中国で  
+故なくごめん  
+担々麺**  
